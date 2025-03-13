@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "chai": "^5.2.0",
+    "cypress": "^14.1.0"
+  }
+}
